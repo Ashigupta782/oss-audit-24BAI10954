@@ -74,7 +74,7 @@ uname -a
 ### 1. Clone the Repository
 
 bash
-git clone https://github.com/Ashigupta782/oss-audit-[24BAI10954].git
+git clone https://github.com/Ashigupta782/oss-audit-24BAI10954.git
 
 
 ### 2. Navigate to the Project Directory
