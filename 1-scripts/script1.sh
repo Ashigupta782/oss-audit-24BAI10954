@@ -18,16 +18,17 @@ CURRENT_DATE=$(date)                   # Current date and time
 
 # -------- DISPLAY --------
 echo "=============================================="
-echo "   Open Source Audit — $Ashi Gupta"
+echo "   Open Source Audit — "Ashi Gupta"
 echo "=============================================="
-echo "Software Chosen : $SOFTWARE_CHOICE"
+echo "Software Chosen : "Python Programming Language"
+
 echo ""
 echo "Linux Distribution : $DISTRO"
-echo "Kernel Version     : $KERNEL"
-echo "Logged-in User     : $Ashigupta782"
+echo "Kernel Version     : $KERNEL
+echo "Logged-in User     : $USER_NAME"
 echo "Home Directory     : $HOME_DIR"
 echo "System Uptime      : $UPTIME"
-echo "Current Date/Time  : $31 March"
+echo "Current Date/Time  : "31 March 2026"
 echo ""
 echo "License Info       : Linux is typically licensed under the GNU GPL (General Public License)"
 echo "=============================================="
