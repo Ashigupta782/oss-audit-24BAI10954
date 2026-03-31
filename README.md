@@ -257,8 +257,8 @@ This project was submitted with the following components:
 
 ## Author
 
-*Ashi Gupta*
-Registration No.: 24BAI10954
+*Ashi Gupta* ,
+Registration No.: 24BAI10954 ,
 Course: Open source software
 
 GitHub: @Ashigupta782(https://github.com/Ashigupta782)
